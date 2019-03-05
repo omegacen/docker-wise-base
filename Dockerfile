@@ -1,4 +1,4 @@
-FROM centos:7
+FROM centos:7.6.1810
 
 LABEL maintainer="t.a.nutma@rug.nl"
 LABEL description="Docker image for building and running WISE software"
